@@ -1,2 +1,5 @@
-# ESP32TinyUzebox
-Uzebox in ESP32 (TTGO VGA32)
+# Tiny UZEBOX port ESP32
+<ul>
+ <li><a href='readmeEnglish.md'>English Doc</a></li>
+ <li><a href='readmeSpanish.md'>Spanish Doc</a></li>
+</ul>
