@@ -32,14 +32,16 @@ Se ha testeado con éxito. Usa el modo de video 3.
 <br><br>
 <h1>Demo Bitmap</h1>
 Se ha testeado con éxito. Usa el modo de video 8.
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo01.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo02.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo03.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo04.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo05.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo06.gif'> 
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo07.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo08.gif'>
+<center>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo01.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo02.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo03.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo04.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo05.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo06.gif'> 
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo07.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo08.gif'>
+</center> 
 <ul>
  <li>120 x 96 modo bitmap (framebuffer)</li> 
  <li>4 colores por pixel (2 bits)</li>
@@ -48,10 +50,12 @@ Se ha testeado con éxito. Usa el modo de video 8.
  
 
 <br><br>
-<h1>Demo chess4uzebox/h1>
+<h1>Demo chess4uzebox</h1>
 Se ha testeado con éxito. Usa el modo de video 5.
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox01.gif'>
-<img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox02.gif'>
+<center>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox01.gif'>
+ <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox02.gif'>
+</center>
 <ul>
  <li>240 x 224 resolution</li> 
  <li>Pantalla de 40 x 28 Tiles</li>
