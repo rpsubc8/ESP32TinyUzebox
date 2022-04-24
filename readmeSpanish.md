@@ -53,13 +53,20 @@ Se ha testeado con éxito. Usa el modo de video 8.
 <h1>Demo chess4uzebox</h1>
 Se ha testeado con éxito. Usa el modo de video 5.
 <center>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox01.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox02.gif'>
-</center>
+ <table>
+  <tr>
+   <th></th>
+  </tr>
+  <tr>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox01.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox02.gif'></td>
+  </tr>
+ </table>
+</center> 
 <ul>
  <li>240 x 224 resolution</li> 
  <li>Pantalla de 40 x 28 Tiles</li>
- <li>Tiles de 6 x 8 pixels/li> 
+ <li>Tiles de 6 x 8 pixels</li> 
 </ul>
 
 
