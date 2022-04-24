@@ -33,14 +33,28 @@ Se ha testeado con éxito. Usa el modo de video 3.
 <h1>Demo Bitmap</h1>
 Se ha testeado con éxito. Usa el modo de video 8.
 <center>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo01.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo02.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo03.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo04.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo05.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo06.gif'> 
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo07.gif'>
- <img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo08.gif'>
+ <table>
+  <tr>
+   <th></th>
+   <th></th>
+   <th></th>
+  </tr>
+  <tr>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo01.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo02.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo03.gif'></td>
+  </tr>
+  <tr>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo04.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo05.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo06.gif'> </td>
+  </tr>
+  <tr>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo07.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/bitmapdemo08.gif'></td>
+   <td></td>
+  </tr>
+ </table> 
 </center> 
 <ul>
  <li>120 x 96 modo bitmap (framebuffer)</li> 
@@ -55,7 +69,8 @@ Se ha testeado con éxito. Usa el modo de video 5.
 <center>
  <table>
   <tr>
-   <th></th>
+   <th>Menú</th>
+   <th>Juego</th>
   </tr>
   <tr>
    <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox01.gif'></td>
