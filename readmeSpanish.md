@@ -71,10 +71,12 @@ Se ha testeado con éxito. Usa el modo de video 5.
   <tr>
    <th>Menú</th>
    <th>Juego</th>
+   <th>SetRenderingParameters</th>
   </tr>
   <tr>
    <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox01.gif'></td>
    <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox02.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/chess4uzebox03.gif'></td>
   </tr>
  </table>
 </center> 
