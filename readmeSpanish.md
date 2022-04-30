@@ -141,7 +141,21 @@ Se han portado las siguientes funciones al ESP32 TTGO VGA 1.x (1.0, 1.1, 1.2, 1.
  <li>ReadJoypad</li>
  <li>DetectControllers</li>
  <li>EepromReadBlock</li>
+ <li>EepromWriteBlock</li>
+ <li>pgm_read_byte</li>
 </ul>
 
+El sonido lo dejo siempre para el final. Las siguientes funciones estás creadas para compialr proyectos, pero no reproducen ningun sonido.
+<ul>
+ <li>InitMusicPlayer</li>
+ <li>ResumeSong</li>
+ <li>SetMasterVolume</li>
+ <li>StartSong</li>
+ <li>StopSong</li>
+ <li>TriggerFx</li>
+ <li>TriggerNote</li>
+ <li>EnableSoundEngine</li>
+ <li>DisableSoundEngine</li>
+</ul>
 También se ha implementado toda la estructura de <b>vram</b>.
 <br><br>
