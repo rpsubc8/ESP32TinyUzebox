@@ -157,5 +157,5 @@ El sonido lo dejo siempre para el final. Las siguientes funciones estás creadas
  <li>EnableSoundEngine</li>
  <li>DisableSoundEngine</li>
 </ul>
-También se ha implementado toda la estructura de <b>vram</b>, de manera que si en tiempo real escribimos en el buffer de vram, de verá por pantalla los cambios, es decir, recrea el comportamiento de la <b>UZEBOX</b>.
+También se ha implementado toda la estructura de <b>vram</b>, de manera que si en tiempo real escribimos en el buffer de vram, se verá por pantalla los cambios, es decir, recrea el comportamiento de la <b>UZEBOX</b>.
 <br><br>
