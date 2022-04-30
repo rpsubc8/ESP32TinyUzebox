@@ -12,6 +12,7 @@ Se ha testeado con éxito. Usa el modo de video 1.
  <li>240 x 224</li> 
  <li>Tiles de 6 x 8 pixels</li>
  <li>256 tiles</li>
+ <li>64 bytes por Tile</li>
  <li>Impresión de texto</li>
 </ul>
 
@@ -25,6 +26,7 @@ Se ha testeado con éxito. Usa el modo de video 3.
  <li>Pantalla de 32 x 32 Tiles</li>
  <li>Tiles de 8 x 8 pixels</li>
  <li>256 tiles</li>
+ <li>64 bytes por Tile</li>
  <li>Test del gamepad</li>
 </ul>
 
@@ -81,10 +83,40 @@ Se ha testeado con éxito. Usa el modo de video 5.
  </table>
 </center> 
 <ul>
- <li>240 x 224 resolution</li> 
+ <li>240 x 224 resolución</li> 
  <li>Pantalla de 40 x 28 Tiles</li>
  <li>Tiles de 6 x 8 pixels</li> 
+ <li>48 bytes por Tile</li>
 </ul>
 
 
+<br><br>
+<h1>Demo MegaSokoban</h1>
+Se ha testeado con éxito. Usa el modo de video 10.
+<center>
+ <table>
+  <tr>
+   <th>Creditos/th>
+   <th>Tutorial</th>
+   <th>Juego</th>
+   <th>Nivel</th>
+   <th>Juego</th>
+  </tr>
+  <tr>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/megasokoban01.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/megasokoban02.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/megasokoban03.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/megasokoban04.gif'></td>
+   <td><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/demos/megasokoban05.gif'></td>
+  </tr>
+ </table>
+</center>
+<ul>
+ <li>192 x 192 resolución</li> 
+ <li>Pantalla de 16 x 12 Tiles</li>
+ <li>Tiles de 12 x 16 pixels</li> 
+ <li>192 bytes por Tile</li>
+</ul>
+ 
+ 
 <br><br>
