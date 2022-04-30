@@ -96,7 +96,7 @@ Se ha testeado con éxito. Usa el modo de video 10.
 <center>
  <table>
   <tr>
-   <th>Creditos/th>
+   <th>Creditos</th>
    <th>Tutorial</th>
    <th>Juego</th>
    <th>Nivel</th>
@@ -119,4 +119,29 @@ Se ha testeado con éxito. Usa el modo de video 10.
 </ul>
  
  
+<br><br>
+<h1>API</h1>
+Se han portado las siguientes funciones al ESP32 TTGO VGA 1.x (1.0, 1.1, 1.2, 1.4):
+<ul>
+ <li>WaitVsync</li> 
+ <li>ClearVram</li>
+ <li>DrawMap2</li>
+ <li>FadeIn</li>
+ <li>FadeOut</li>
+ <li>Fill</li>
+ <li>SetFontTable</li>
+ <li>PrintChar</li>
+ <li>Print</li>
+ <li>SetFontTilesIndex</li>
+ <li>SetFont</li>
+ <li>SetTileTable</li>
+ <li>SetSpritesTileTable</li>
+ <li>SetTile</li>
+ <li>SetRenderingParameters</li>
+ <li>ReadJoypad</li>
+ <li>DetectControllers</li>
+ <li>EepromReadBlock</li>
+</ul>
+
+También se ha implementado toda la estructura de <b>vram</b>.
 <br><br>
