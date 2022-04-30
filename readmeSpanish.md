@@ -145,7 +145,7 @@ Se han portado las siguientes funciones al ESP32 TTGO VGA 1.x (1.0, 1.1, 1.2, 1.
  <li>pgm_read_byte</li>
 </ul>
 
-El sonido lo dejo siempre para el final. Las siguientes funciones estás creadas para compialr proyectos, pero no reproducen ningun sonido.
+El sonido lo dejo siempre para el final. Las siguientes funciones estás creadas para compilar proyectos, pero no reproducen ningun sonido.
 <ul>
  <li>InitMusicPlayer</li>
  <li>ResumeSong</li>
@@ -157,5 +157,5 @@ El sonido lo dejo siempre para el final. Las siguientes funciones estás creadas
  <li>EnableSoundEngine</li>
  <li>DisableSoundEngine</li>
 </ul>
-También se ha implementado toda la estructura de <b>vram</b>.
+También se ha implementado toda la estructura de <b>vram</b>, de manera que si en tiempo real escribimos en el buffer de vram, de verá por pantalla los cambios, es decir, recrea el comportamiento de la <b>UZEBOX</b>.
 <br><br>
