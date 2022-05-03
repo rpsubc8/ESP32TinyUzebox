@@ -1,0 +1,2 @@
+*.c linguist-detectable=true
+*.* linguist-detectable=false
