@@ -6,7 +6,7 @@ Fue cuando decidí encaminar el proyecto por otro camino, que consiste en realiz
 
 <br><br>
 <h1>Características</h1>
-Es una versión de prueba de concepto con 5 demos, que aún está muy intestable.
+Es una versión de prueba de concepto con 5 demos, que aún está muy inestable.
 <ul>
  <li>No se usa PSRAM, funcionando en ESP32 de 520 KB de RAM (TTGO VGA32 v1.0, v1.1, v1.2 y v1.4)</li>
  <li>Uso de un sólo core</li>
