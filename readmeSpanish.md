@@ -11,7 +11,7 @@ Es una versión de prueba de concepto con 5 demos, que aún está muy intestable
  <li>No se usa PSRAM, funcionando en ESP32 de 520 KB de RAM (TTGO VGA32 v1.0, v1.1, v1.2 y v1.4)</li>
  <li>Uso de un sólo core</li>
  <li>OSD de bajos recursos (Tecla F1)</li>
- <li>Menú de velocidad de CPU (normal, Turbo)/li>
+ <li>Menú de velocidad de CPU (normal, Turbo)</li>
  <li>Modo 64 colores</li>
  <li>VGA 320x240</li>
  <li>Cursores arriba, abajo, izquierda, derecha</li>
