@@ -2,7 +2,36 @@
 Hace un año comencé el port del emulador UZEM (PC x86) al ESP32. Eliminé el soporte SD y el sonido, siendo muy fácil el port.<br>
 Se conseguía una velocidad ridícula de 1/2 fps. Optimizando y ajustando, se consiguió aumentar los fps, pero seguía siendo muy lento.<br>
 Decidí eliminar la interrupción del timer y del KERNEL, reimplementando algún modo de video, logrando 20 fps, pero emulando un AVR a 4 Mhz, en lugar de los 28 Mhz, por lo que no era muy prometedor.<br>
-Fue cuando decidí realizar el port de la API, logrando no sólo el tiempo real, sino superar los 28 Mhz con creces.
+Fue cuando decidí encaminar el proyecto por otro camino, que consiste en realizar el port de la API, logrando no sólo el tiempo real, sino superar los 28 Mhz con creces.
+
+<br><br>
+<h1>Características</h1>
+Es una versión de prueba de concepto con 5 demos, que aún está muy intestable.
+<ul>
+ <li>No se usa PSRAM, funcionando en ESP32 de 520 KB de RAM (TTGO VGA32 v1.0, v1.1, v1.2 y v1.4)</li>
+ <li>Uso de un sólo core</li>
+ <li>OSD de bajos recursos (Tecla F1)</li>
+ <li>Menú de velocidad de CPU (normal, Turbo)/li>
+ <li>Modo 64 colores</li>
+ <li>VGA 320x240</li>
+ <li>Cursores arriba, abajo, izquierda, derecha</li>
+ <li>Tecla X (botón A), tecla Z (botón B)</li>
+ <li>Tecla C (botón SELECT), tecla V (botón START)</li>
+</ul>
+<center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/ttgovga32v12.jpg'></center>
+
+
+
+<br><br>
+<h1>Requerimientos</h1>
+Se requiere:
+<ul>
+ <li>TTGO VGA32 v1.x (1.0, 1.1, 1.2, 1.4)</li>
+ <li>Visual Studio 1.66.1 PLATFORMIO 2.4.3 Espressif32 v3.5.0 (python 3.6)</li>
+ <li>El proyecto no está aún preparado para Arduino IDE</li>
+ <li>Librería reducida Arduino bitluni 0.3.3 (ya incluida en el proyecto)</li>
+</ul> 
+
 
 <br><br>
 <h1>Demo tutorial</h1>
