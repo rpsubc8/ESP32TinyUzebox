@@ -18,8 +18,6 @@ Es una versión de prueba de concepto con 5 demos, que aún está muy intestable
  <li>Tecla X (botón A), tecla Z (botón B)</li>
  <li>Tecla C (botón SELECT), tecla V (botón START)</li>
 </ul>
-<center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/ttgovga32v12.jpg'></center>
-
 
 
 <br><br>
@@ -30,7 +28,8 @@ Se requiere:
  <li>Visual Studio 1.66.1 PLATFORMIO 2.4.3 Espressif32 v3.5.0 (python 3.6)</li>
  <li>El proyecto no está aún preparado para Arduino IDE</li>
  <li>Librería reducida Arduino bitluni 0.3.3 (ya incluida en el proyecto)</li>
-</ul> 
+</ul>
+<center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/ttgovga32v12.jpg'></center>
 
 
 <br><br>
