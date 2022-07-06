@@ -17,7 +17,19 @@ Es una versión de prueba de concepto con 5 demos, que aún está muy inestable.
  <li>Cursores arriba, abajo, izquierda, derecha</li>
  <li>Tecla X (botón A), tecla Z (botón B)</li>
  <li>Tecla C (botón SELECT), tecla V (botón START)</li>
+ <li>Versión precompilada (flash download 3.9.2) 320x240</li>
 </ul>
+
+<br><br>
+<h1>Versión precompilada</h1>
+En la carpeta precompile se encuentra una versión ya compilada para poder ser grabada con el flash download tool 3.9.2. Se trata de una versión con resolución 320x240 con los juegos de demostración en FLASH.<br><br>
+<a href='https://github.com/rpsubc8/ESP32TinyUzebox/tree/main/ESP32/precompile'>https://github.com/rpsubc8/ESP32TinyUzebox/tree/main/ESP32/precompile</a>
+<br><br>
+Debemos de elegir el tipo ESP32:
+<center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/flash00.gif'></center>
+Posteriormente, seleccionaremos los archivos tal y como la captura adjunta, con los mismos valores de offset:
+<center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/flash01.gif'></center>
+Y le daremos a start. Si todo ha sido correcto, sólo tendremos que reiniciar el ESP32.
 
 
 <br><br>
