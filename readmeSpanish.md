@@ -23,7 +23,7 @@ Es una versión de prueba de concepto con 5 demos, que aún está muy inestable.
 <br><br>
 <h1>Versión precompilada</h1>
 En la carpeta precompile se encuentra una versión ya compilada para poder ser grabada con el flash download tool 3.9.2. Se trata de una versión con resolución 320x240 con los juegos de demostración en FLASH.<br><br>
-<a href='https://github.com/rpsubc8/ESP32TinyUzebox/tree/main/ESP32/precompile'>https://github.com/rpsubc8/ESP32TinyUzebox/tree/main/ESP32/precompile</a>
+<a href='https://github.com/rpsubc8/ESP32TinyUzebox/tree/main/esp32/precompile'>https://github.com/rpsubc8/ESP32TinyUzebox/tree/main/esp32/precompile</a>
 <br><br>
 Debemos de elegir el tipo ESP32:
 <center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyUzebox/main/preview/flash00.gif'></center>
